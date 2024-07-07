@@ -2059,7 +2059,7 @@ textarea.w-input, textarea.w-select {
 }
 
 :root {
-  --color: #2e8cdf;
+  --color: #f532f5;
   --text-color: #fff;
   --shadaow-buy-btn: 0px;
   --first-pg-bg-color: #ffffffba;
@@ -2207,10 +2207,10 @@ a {
   pointer-events: auto;
   color: var(--text-color);
   text-shadow: 5px 3px 1px #0003;
-  background-color: #2470cc;
+  background-color: #8024cc;
   border-radius: 8px;
   position: static;
-  box-shadow: 3px 4px #244ecc;
+  box-shadow: 3px 4px #9724cc;
 }
 
 .nav-link:focus-visible, .nav-link[data-wf-focus-visible] {
@@ -2265,7 +2265,7 @@ a {
 
 .nav-dropdown-link:focus-visible, .nav-dropdown-link[data-wf-focus-visible] {
   outline-offset: 0px;
-  color: #0050bd;
+  color: #8700bd;
   border-radius: 5px;
   outline: 2px solid #0050bd;
 }
@@ -2291,7 +2291,7 @@ a {
   color: var(--text-color);
   letter-spacing: 2px;
   text-transform: uppercase;
-  background-color: #2459cc;
+  background-color: #aa24cc;
   background-image: url("../images/662033105c00d7961b5a6667_white%20paws.png");
   background-position: 20%;
   background-repeat: no-repeat;
@@ -2307,7 +2307,7 @@ a {
 
 .button-primary:hover {
   color: #fff;
-  background-color: #2272c9;
+  background-color: #9a22c9;
 }
 
 .button-primary:active {
@@ -2524,9 +2524,9 @@ a {
 }
 
 .text-paragraphs {
-  color: var(--color-2);
+  color: white;
   text-align: left;
-  text-shadow: 0 0 6px #bef79f;
+  text-shadow: 0 0 6px #7700ff;
   margin-right: -7vw;
   font-family: Montserrat, sans-serif;
   font-size: 2vw;
@@ -2548,8 +2548,9 @@ a {
 }
 
 .image-7 {
-  max-width: 40vw;
-  margin-left: 5vw;
+  max-width: 30vw;
+  margin-left: 8vw;
+  margin-bottom: 4vw;
 }
 
 .bold-text {
@@ -2600,7 +2601,7 @@ a {
 }
 
 .heading-2:hover {
-  background-color: #0084ff;
+  background-color: #a200ff;
   border-radius: 16px;
   box-shadow: 8px 8px 4px #0003;
 }
@@ -2716,7 +2717,7 @@ a {
   font-family: Montserrat, sans-serif;
   font-size: 2vw;
   font-weight: 700;
-  line-height: 2.2vw;
+  line-height: 1vw;
 }
 
 .flex-block-7 {
@@ -2806,7 +2807,7 @@ a {
 }
 
 .image-17 {
-  max-width: 30vw;
+  max-width: 20vw;
 }
 
 .flex-block-9 {
@@ -2846,7 +2847,6 @@ a {
   z-index: 0;
   color: var(--text-color);
   text-shadow: 4px 3px 3px #0003;
-  margin-left: -148px;
   font-family: Changa One, Impact, sans-serif;
   font-size: 6vw;
   line-height: 5.3vw;
@@ -3021,6 +3021,7 @@ a {
   .image-3 {
     min-width: 75vw;
     max-width: 75vw;
+    
   }
 
   .image-4 {
